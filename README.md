@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning Java and SQL
+- 🌱 I’m currently learning software development with Java at Edinburgh College
 - 🔭 I’m currently working towards becoming a software developer, and intrepeneurship.
 - 👯 I’m looking to collaborate on any interesting open source projects to showcase my skills, or having fun learning the basics.
 - 🤔 I’m looking for help with data structures and alghorithms.
