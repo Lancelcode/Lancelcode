@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🌱 I’m currently learning software development with Java at Edinburgh College
-- 🔭 I’m currently working towards becoming a software developer, and intrepeneurship.
+- 🔭 I’m currently working towards becoming a sys.sec.ops
 - 👯 I’m looking to collaborate on any interesting open source projects to showcase my skills, or having fun learning the basics.
 - 🤔 I’m looking for help with data structures and alghorithms.
 - 💬 Ask me about anything, I am always interested in collaborate with other developers :) .
