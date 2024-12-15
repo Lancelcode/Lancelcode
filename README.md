@@ -1,12 +1,12 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning software development with Java at Edinburgh College
-- 🔭 I’m currently working towards becoming a sys.sec.ops
-- 👯 I’m looking to collaborate on any interesting open source projects to showcase my skills, or having fun learning the basics.
-- 🤔 I’m looking for help with data structures and alghorithms.
-- 💬 Ask me about anything, I am always interested in collaborate with other developers :) .
-- ⚡ True fact: Sometimes, a walk can do more for you, than overthinking.
-- - 📫 You can reach me at: https://www.linkedin.com/in/djiby-sow-rebollo-95706720b/
+- 🌱 Learning Journey: Currently studying Software Development with Java at Edinburgh College, building a solid foundation for my career in tech.
+- 🔭 Career Goals: Aspiring to become a skilled Software Engineer with a passion for innovation and problem-solving.
+- 👯 Open to Collaboration: Excited to contribute to interesting open-source projects to sharpen my skills, explore new technologies, and have fun along the way!
+- 🤔 Looking for Help: Always eager to improve my understanding of data structures and algorithms—let’s learn together!
+- 💬 Let's Connect: Open to discussions on software development, Java, or any other tech topic. Collaboration fuels creativity!
+- ⚡ True Fact: Sometimes, taking a step back—like going for a walk—can solve problems better than overthinking ever could.
+- 📫 You can reach me at: https://www.linkedin.com/in/djiby-sow-rebollo-95706720b/
   
 <!--
 **Lancelcode/Lancelcode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
