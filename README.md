@@ -15,7 +15,7 @@
 - 📫 You can reach me at: https://www.linkedin.com/in/djiby-sow-rebollo-95706720b/
   
  ![Lancelcode GitHub stats](https://github-readme-stats.vercel.app/api?username=Lancelcode&theme=merko&show_icons=true) 
- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Lancelcode&theme=merko&show_icons=true&repo=Graded-Unit-2-webpage)
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Lancelcode&repo=Graded-Unit-2-webpage)
 
 <!--
 **Lancelcode/Lancelcode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
