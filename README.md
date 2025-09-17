@@ -14,7 +14,7 @@
 
 - 📫 You can reach me at: https://www.linkedin.com/in/djiby-sow-rebollo-95706720b/
   
- [![Lancelcode GitHub stats](https://github-readme-stats.vercel.app/api?username=Lancelcode&theme=dark&show_icons=true)]
+ [![Lancelcode GitHub stats](https://github-readme-stats.vercel.app/api?username=Lancelcode&theme=merko&show_icons=true)]
 
   
 <!--
