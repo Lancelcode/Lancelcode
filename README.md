@@ -1,12 +1,12 @@
 ### Hi there 👋
 
-- 🌱 Learning Journey: Currently studying Software Development (Java, php, JS, Phyton, C#) at Edinburgh Napier University, building a strong foundations on Comp.sci, Cyber.Sec, and Networking.
+- 🌱 Learning Journey: Currently studying Software Development at Edinburgh Napier University, building a strong foundations on Dev Sec Ops.
 
 - 🔭 Career Goals: Aspiring Software Engineer with a passion for DevSecOp , threath PI and problem-solving.
 
-- 👯 Collaboration: Actively looking to contribute to Private projects to sharpen my skills, explore new technologies and learn by doing.
+- 👯 Collaboration: Actively looking to contribute to Private projects to improve my skills, explore new technologies and learn by doing.
 
-- 🤔 Learning Focus: Developing a deeper understanding of algorithms with a focus on high-frequency trading, AI-driven threat detection, emerging quantum algorithms, and cutting-edge standards in cybersecurity..
+- 🤔 Learning Focus: Developing a deeper understanding of algorithms with a focus on high-frequency trading, AI-driven threat detection, emerging quantum algorithms, and cutting-edge standards in cybersecurity.
 
 - 💬 Let’s Connect: Always open to thoughtful conversations on emerging technologies and their impact on finance, security, and innovation. I believe collaboration fuels creativity.
 
