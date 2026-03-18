@@ -12,7 +12,7 @@
 
 - ⚡ Fun Fact: Some of my best coding breakthroughs come after a walk. Stepping away often solves more than overthinking.
 
-- 📫 You can reach me at: https://www.linkedin.com/in/djiby-sow-rebollo-95706720b/
+- 📫 You can reach me at: https://www.linkedin.com/in/djiby-sow-rebollo/
   
  ![Lancelcode GitHub stats](https://github-readme-stats.vercel.app/api?username=Lancelcode&theme=merko&show_icons=true) 
 
