@@ -6,7 +6,7 @@
 
 - 👯 Collaboration: Actively looking to contribute to Private projects to improve my skills, explore new technologies and learn by doing.
 
-- 🤔 Learning Focus: Developing a deeper understanding of algorithms with a focus on high-frequency trading, AI-driven threat detection, emerging quantum algorithms, and cutting-edge standards in cybersecurity.
+- 🤔 Learning Focus: Developing a deeper understanding of algorithms with a focus on AI-driven threat detection, emerging quantum algorithms, and cutting-edge standards in cybersecurity.
 
 - 💬 Let’s Connect: Always open to thoughtful conversations on emerging technologies and their impact on finance, security, and innovation. I believe collaboration fuels creativity.
 
