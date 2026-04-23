@@ -34,13 +34,14 @@
 
 ---
 
-## 📌 Current Projects
+## 📌 Latest Work (Auto-Synced)
 
-- 🧠 **PulseDB** – Lightweight Redis-like in-memory database (systems + concurrency focus)
-- ⚙️ **Codecrafters Challenges** – Low-level systems engineering practice (networking, parsers, storage engines)
-- 🔐 **Security Labs** – Exploring authentication, encryption, and threat modeling concepts
-
----
+<!--START_SECTION:projects-->
+<!-- This section is auto-generated -->
+- 🧠 PulseDB — active
+- ⚙️ Codecrafters — ongoing
+- 🔐 Security Labs — ongoing
+<!--END_SECTION:projects-->
 
 ## 📊 GitHub Stats
 
