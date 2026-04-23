@@ -1,29 +1,49 @@
 ### Hi there 👋
 
-- 🌱 Learning Journey: Currently studying Software Development at Edinburgh Napier University, building a strong foundations on Dev Sec Ops.
+- 🌱 Learning Journey: Software Development student at Edinburgh Napier University, building strong foundations in systems, backend engineering, and security.
 
-- 🔭 Career Goals: Aspiring Software Engineer with a passion for DevSecOp , threath PI and problem-solving.
+- 🔭 Career Goals: Aspiring Software Engineer focused on DevSecOps, threat intelligence, and secure system design.
 
-- 👯 Collaboration: Actively looking to contribute to Private projects to improve my skills, explore new technologies and learn by doing.
+- 👯 Collaboration: Open to contributing to backend, systems, and security-focused projects to accelerate learning through real-world codebases.
 
-- 🤔 Learning Focus: Developing a deeper understanding of algorithms with a focus on AI-driven threat detection, emerging quantum algorithms, and cutting-edge standards in cybersecurity.
+- 🤔 Learning Focus: Algorithms, distributed systems, AI-driven threat detection, and modern cybersecurity architecture.
 
-- 💬 Let’s Connect: Always open to thoughtful conversations on emerging technologies and their impact on finance, security, and innovation. I believe collaboration fuels creativity.
+- 💬 Let’s Connect: Interested in discussions around infrastructure, security engineering, and emerging technologies in finance and cloud systems.
 
-- ⚡ Fun Fact: Some of my best coding breakthroughs come after a walk. Stepping away often solves more than overthinking.
+- ⚡ Fun Fact: My best debugging sessions happen after stepping away from the screen.
 
-- 📫 You can reach me at: https://www.linkedin.com/in/djiby-sow-rebollo/
-  
- ![Lancelcode GitHub stats](https://github-readme-stats.vercel.app/api?username=Lancelcode&theme=merko&show_icons=true) 
+- 📫 Contact: https://www.linkedin.com/in/djiby-sow-rebollo/
 
-<!--
-**Lancelcode/Lancelcode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
-- ...(https://github.com/anuraghazra/github-readme-stats)
- ...
-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lancelcode&merko&show_icons=true&layout=donut)]
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lancelcode&theme=merko&show_icons=true)
-- 
-[![Lancelcode GitHub stats](https://github-readme-stats.vercel.app/api?username=Lancelcode)](https://github.com/anuraghazra/github-readme-stats)-->
+## 🧰 Tech Stack
 
+**Languages**
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+
+**Backend & Systems**
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+
+**DevOps / Security**
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+## 📌 Current Projects
+
+- 🧠 **PulseDB** – Lightweight Redis-like in-memory database (systems + concurrency focus)
+- ⚙️ **Codecrafters Challenges** – Low-level systems engineering practice (networking, parsers, storage engines)
+- 🔐 **Security Labs** – Exploring authentication, encryption, and threat modeling concepts
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Lancelcode&theme=merko&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Lancelcode&theme=merko&layout=compact)
