@@ -73,7 +73,7 @@ I'm on a deliberate path from **foundations → production-grade engineering**. 
 | Project | Status | Description |
 |---|---|---|
 | 🧠 **PulseDB** | `active` | Building a database engine from scratch — storage, indexing, query execution |
-| ⚙️ **Codecrafters** | `ongoing` | Rebuilding Redis, Git, HTTP servers to understand systems at the protocol level |
+| ⚙️ **Rebuilding Popular Dev Tools** | `ongoing` | Rebuilding Redis, Compiler, Git, HTTP servers to understand systems at the protocol level |
 | 🔐 **Security Labs** | `ongoing` | Hands-on labs — pen testing, hardening, log analysis, CVE research |
 
 ---
