@@ -25,7 +25,7 @@
   "university" : "Edinburgh Napier University (BSc Software Development, Sep 2026)",
   "location"   : "Edinburgh / Glasgow, Scotland",
   "focus"      : ["Systems Engineering", "Backend Development", "Security Engineering"],
-  "building"   : "PulseDB — a database engine from scratch",
+  "building"   : "PulseDB = a database engine from scratch",
   "learning"   : ["Python at depth", "AI/ML engineering", "Applied cryptography"],
   "principle"  : "Understand the machine. Don't just use the tools — build them."
 }
@@ -38,7 +38,7 @@
 ### 🧠 PulseDB — Database Engine from Scratch
 > *The project that started with a question: how does a database actually work?*
 
-Building a functional database engine without external libraries — implementing storage management, B-tree indexing, a query parser, and execution engine from first principles in C/Java. Not a tutorial. Not a clone. A deliberate attempt to understand what happens below the ORM.
+Building a functional database engine without external libraries, implementing storage management, B-tree indexing, a query parser, and execution engine from first principles in C/Java. Not a tutorial. Not a clone. A deliberate attempt to understand what happens below the ORM.
 
 **What I've learned that no course teaches:**
 - Why page sizes matter for I/O performance
