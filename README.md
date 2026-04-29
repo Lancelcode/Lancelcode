@@ -28,7 +28,7 @@ $ cat profile.json
   "role"       : "Software Engineering Student → Aspiring DevSecOps Engineer",
   "university" : "Edinburgh Napier University",
   "focus"      : ["Secure System Design", "Threat Intelligence", "Backend Engineering"],
-  "currently"  : "Building PulseDB & grinding Codecrafters challenges",
+  "currently"  : "Building PulseDB & grinding challenging projects",
   "seeking"    : "Real-world projects in backend, systems, and security",
   "fun_fact"   : "Best debugging sessions happen after stepping away from the screen"
 }
