@@ -35,7 +35,7 @@
 
 ## `$ ls -la projects/flagship/`
 
-### 🧠 PulseDB  Database Engine from Scratch
+### 🧠 PulseDB, Database Engine from Scratch
 > *The project that started with a question: how does a database actually work?*
 
 Building a functional database engine without external libraries, implementing storage management, B-tree indexing, a query parser, and execution engine from first principles in C/Java. Not a tutorial. Not a clone. A deliberate attempt to understand what happens below the ORM.
@@ -49,7 +49,7 @@ Building a functional database engine without external libraries, implementing s
 
 ---
 
-### ⚙️ Rebuilding the Stack — Dev Tools from Protocol Level
+### ⚙️ Rebuilding the Stack, Dev Tools from Protocol Level
 > *If you can build it, you understand it.*
 
 A running series of protocol-level reimplementations:
