@@ -56,8 +56,8 @@ A running series of protocol-level reimplementations:
 
 | Tool | Status | What it taught me |
 |------|--------|-------------------|
-| HTTP Server | ✅ Complete | TCP, request parsing, response lifecycle |
-| Redis clone | 🔄 In progress | In-memory data structures, serialisation, persistence |
+|Group Chat (Sockets)🔄 | In progress | TCP, multi-client handling, concurrency |
+| Redis clone | ✅ Complete | In-memory data structures, serialisation, persistence |
 | Git internals | 🔄 In progress | Content-addressable storage, DAGs, hashing |
 | Compiler (subset) | 📋 Planned | Lexing, parsing, AST, code generation |
 
