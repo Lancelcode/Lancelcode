@@ -179,6 +179,15 @@ Long term: DevSecOps and AI-driven security tooling. Right now: laying the kind 
 
 ---
 
+## 📊 GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Lancelcode&theme=merko&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Lancelcode&theme=merko&layout=compact)
+
+---
+
+
 ## `$ echo "Let's talk"`
 
 Working on something in backend systems, security tooling, or infrastructure engineering? Want to exchange ideas on systems design, applied security, or ML in security contexts?
