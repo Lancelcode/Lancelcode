@@ -179,8 +179,6 @@ Long term: DevSecOps and AI-driven security tooling. Right now: laying the kind 
 
 
 ---
-## 📊 GitHub Stats
-
 <div align="center">
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Lancelcode&theme=merko&show_icons=true&hide_border=true&bg_color=0d1117)
