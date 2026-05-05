@@ -87,7 +87,7 @@ A running series of systems-level reimplementations:
 | Group Chat (Sockets) | 🔄 In progress | TCP, multi-client handling, concurrency |
 | Own Shell | 🔄 In progress | Process forking, pipes, signals, PATH resolution |
 | AI Coding Agent | 🔄 In progress | LLM APIs, tool calling, agent loops |
-| Redis clone | ✅ Complete | In-memory data structures, serialisation, persistence |
+| PulseDB | ✅ Complete | In-memory data structures, serialisation, persistence |
 | Git internals | 📋 Planned | Content-addressable storage, DAGs, hashing |
 | Compiler (subset) | 📋 Planned | Lexing, parsing, AST, code generation |
 
