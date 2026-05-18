@@ -84,7 +84,7 @@ A running series of systems-level reimplementations:
 
 | Tool | Status | What it taught me |
 |------|--------|-------------------|
-| Group Chat (Sockets) | 🔄 In progress | TCP, multi-client handling, concurrency |
+| Group Chat (Sockets) | ✅ Complete | TCP, multi-client handling, concurrency |
 | Own Shell | 🔄 In progress | Process forking, pipes, signals, PATH resolution |
 | AI Coding Agent | 🔄 In progress | LLM APIs, tool calling, agent loops |
 | PulseDB | ✅ Complete | In-memory data structures, serialisation, persistence |
