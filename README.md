@@ -39,7 +39,7 @@
 ### 🧠 PulseDB   Database Engine from Scratch
 > *The project that started with a question: how does a database actually work?*
 
-Building a functional database engine without external libraries — storage management, B-tree indexing, a query parser, and execution engine from first principles. Not a tutorial. Not a clone. A deliberate attempt to understand what happens below the ORM.
+Building a functional database engine without external libraries, storage management, B-tree indexing, a query parser, and execution engine from first principles. An attempt to understand what happens below the ORM.
 
 **What I've learned that no course teaches:**
 - Why page sizes matter for I/O performance
@@ -51,9 +51,9 @@ Building a functional database engine without external libraries — storage man
 ---
 
 ### 🔧 project-manager-api   Production-Ready REST API
-> *Not "hello world" with a database. An actual backend.*
+> *Small Backend. *
 
-JWT authentication, role-based access control, PostgreSQL, Docker, full CI/CD pipeline via GitHub Actions, and complete test coverage. Built from scratch in Java 21 + Spring Boot, designed to be deployed, not just demoed.
+JWT authentication, role-based access control, PostgreSQL, Docker, full CI/CD pipeline via GitHub Actions, and complete test coverage. Built from scratch in Java 21 + Spring Boot, designed to be deployed :D .
 
 `Java` `Spring Boot` `PostgreSQL` `Docker` `Maven` `JWT` `GitHub Actions`
 
@@ -62,14 +62,14 @@ JWT authentication, role-based access control, PostgreSQL, Docker, full CI/CD pi
 ### 🌱 GreenScore   Full-Stack Sustainability Platform
 > *42 PHPUnit tests. CSRF protection. Rate limiting. Certificate generation. The works.*
 
-A full-stack web platform built in PHP with session management, role-based admin dashboard, REST API, and a proper security layer. The kind of project that teaches you what "production-ready" actually means.
+A full-stack web platform built in PHP with session management, role-based admin dashboard, REST API, and a proper security layer.  Project that taught me what "production-ready" actually means.
 
 `PHP` `MySQL` `Bootstrap` `PHPUnit` `Security` `REST API`
 
 ---
 
 ### 🔍 nvvri   AI-Powered Nursery Finder
-> *Natural language search. No CSS frameworks. Deployed.*
+> *Natural language search. Deployed.*
 
 Nursery finder with AI-driven natural language search, filtering by area, age range, Ofsted rating, and price. Built with Next.js 15, React 19, and TypeScript — without reaching for Bootstrap or Tailwind. Live at [nvvri.vercel.app](https://nvvri.vercel.app).
 
@@ -107,10 +107,10 @@ Hands-on security research across penetration testing, log analysis, CVE researc
 ## `$ cat current_learning.log`
 
 ```
-[2026] ████████████░░░░░░░░  Python mastery          — OOP, testing, packaging
+[2026] █████████░░░░░░░░░░░  Python mastery          — OOP, testing, packaging
 [2026] ██████░░░░░░░░░░░░░░  AI/ML foundations       — numpy, pandas, sklearn
 [2026] ████████░░░░░░░░░░░░  Applied security        — TryHackMe, PortSwigger
-[2026] █████████████████░░░  Systems programming     — memory, concurrency, I/O
+[2026] ████████████░░░░░░░░  Systems programming     — memory, concurrency, I/O
 ```
 
 The roadmap: strong systems foundations → production Python → ML engineering → DevSecOps.
