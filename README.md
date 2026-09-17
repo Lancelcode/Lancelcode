@@ -98,7 +98,7 @@ A running series of systems-level reimplementations:
 ### 🔐 Security Labs
 > *Offensive skills make better defensive engineers.*
 
-Hands-on security research across penetration testing, log analysis, CVE research, and hardening. Documenting findings and write-ups as I progress through TryHackMe and Hack The Box tracks.
+Hands-on security learning across penetration testing, log analysis, CVE research, and hardening. Documenting findings and write-ups as I progress through TryHackMe and Hack The Box tracks.
 
 `Parrot OS` `Linux` `Pen Testing` `CVE Analysis` `Hardening`
 
@@ -170,7 +170,7 @@ Everything connects. Security makes me a better engineer. Systems knowledge make
 
 ## `$ cat philosophy.txt`
 
-I came into software engineering from an unusual direction — not from a computer science family or a bootcamp, but from figuring things out because I had to. That gives me something I think is genuinely useful: I am not afraid of not knowing something, because not knowing has always just been the starting point.
+I came into software engineering from an unusual direction, not from a computer science family or a bootcamp, but from figuring things out because I had to. That gives me something I think is genuinely useful: I am not afraid of not knowing something, because not knowing has always just been the starting point.
 
 I build things from scratch not to reinvent wheels, but because you cannot truly understand a wheel until you have tried to build one. Every system I rebuild teaches me something no tutorial ever could.
 
