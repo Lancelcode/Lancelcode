@@ -51,7 +51,7 @@ Building a functional database engine without external libraries, storage manage
 ---
 
 ### 🔧 project-manager-api   Production-Ready REST API
-> *Small Backend. *
+> * Backend time. *
 
 JWT authentication, role-based access control, PostgreSQL, Docker, full CI/CD pipeline via GitHub Actions, and complete test coverage. Built from scratch in Java 21 + Spring Boot, designed to be deployed :D .
 
