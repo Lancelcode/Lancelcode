@@ -24,7 +24,7 @@
 ```json
 {
   "name"       : "Djiby Sow Rebollo",
-  "role"       : "Software Engineering student → Systems & Security Engineer",
+  "role"       : "MEng student → Systems & Security Engineer",
   "university" : "Edinburgh Napier University",
   "location"   : "Edinburgh, Scotland",
   "focus"      : ["Systems", "Backend", "Security", "Performance / HPC", "AI/ML engineering"],
