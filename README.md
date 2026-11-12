@@ -61,11 +61,11 @@ Projects and tasks API with JWT authentication, PostgreSQL persistence, Jakarta 
 ---
 
 ### 🌱 [GreenScore](https://github.com/Lancelcode/GreenScore) · Full-stack sustainability platform
-> *42 PHPUnit tests. CSRF protection. Rate limiting. Certificate generation.*
+> *Rewritten from PHP to strict TypeScript. 85 unit tests. 51 end-to-end and accessibility tests.*
 
-Organisations complete a 10-category environmental assessment, earn one of 14 badge levels and receive a certificate. Built in PHP and MySQL with session-based roles, an admin dashboard and a security layer. The project that taught me what "production-ready" actually means.
+Organisations complete a 10-category environmental assessment, earn one of 14 badge levels and receive a printable certificate. Originally a PHP app, ported feature for feature to Next.js 16 and React 19 on the same MariaDB database, with the existing Playwright suite proving nothing broke. Database-backed sessions, login rate limiting, an admin dashboard, Docker and CI on every push. The project that taught me what "production-ready" actually means.
 
-`PHP 8.2` `MySQL` `Bootstrap` `PHPUnit` `Security`
+`TypeScript` `Next.js` `React` `MariaDB` `Vitest` `Playwright` `Docker` `GitHub Actions`
 
 ---
 
@@ -110,7 +110,6 @@ The direction: strong systems foundations first, then high-performance computing
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-8.2-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 **Backend and Web**
 
@@ -121,12 +120,12 @@ The direction: strong systems foundations first, then high-performance computing
 **Databases**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 
 **Testing**
 
 ![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white)
-![PHPUnit](https://img.shields.io/badge/PHPUnit-6C9FCC?style=for-the-badge&logo=php&logoColor=white)
+![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
 
 **Infrastructure**
